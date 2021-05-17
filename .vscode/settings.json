@@ -1,5 +1,6 @@
 {
     "java.project.sourcePaths": [
-        "structure_repetitive"
+        "structure_repetitive",
+        ""
     ]
 }
